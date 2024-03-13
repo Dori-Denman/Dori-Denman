@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 👋Hello, Welcome to my portfolio. My name is Portier!
 <p>
   <a href="https://www.linkedin.com/in/portier-denman/" rel="nofollow noreferrer">
