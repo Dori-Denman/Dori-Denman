@@ -1,11 +1,9 @@
 ![Header](./github-header-image.png)
 # Hello, Welcome to my portfolio. My name is Dori!
 <p>
-  <a href="https://www.linkedin.com/in/dori-denman/" rel="nofollow noreferrer">
-    
+  <a href="https://www.linkedin.com/in/dori-denman/" rel="nofollow noreferrer"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/Dori-Denman" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  <a href="https://github.com/Dori-Denman" rel="nofollow noreferrer"> Github
   </a> &nbsp;
   <a href = "mailto:dori.denman@gmail.com">Email</a>  
 </p>
